@@ -1,0 +1,8 @@
+pandas
+numpy
+naked
+statistics
+random
+selenium
+tbselenium
+pyvirtualdisplay
